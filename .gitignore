@@ -1,0 +1,12 @@
+*.exe
+*.log
+*.pyc
+*.token
+
+.hypothesis/
+.pytest_cache/
+doc_templates/
+log/
+
+Dockerfile
+tests/test.py
